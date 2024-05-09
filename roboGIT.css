@@ -1,0 +1,202 @@
+#cabeça {
+    width: 120px;
+    height: 70px;
+    background-color: #CD94F7;
+    border: 5px solid #442159;
+    border-radius: 15px;
+    margin: 450px;
+    margin-top: 100px;
+}
+
+#pescoço {
+    width: 50px;
+    height: 10px;
+    background-color: #9F5DCF;
+    border: 5px solid #442159;
+    border-radius: 3px;
+    margin: 487px;
+    margin-top: -454px;
+}
+
+#corpo {
+    width: 150px;
+    height: 155px;
+    background-color: #CD94F7;
+    border: 5px solid #442159;
+    border-radius: 15px;
+    margin: 436px;
+    margin-top: -490px;
+}
+
+#perna1 {
+    width: 20px;
+    height: 35px;
+    background-color: #9F5DCF;
+    border: 5px solid #442159;
+    margin: 470px;
+    margin-top: -440px;
+}
+
+#perna2 {
+    width: 20px;
+    height: 35px;
+    background-color: #9F5DCF;
+    border: 5px solid #442159;
+    margin: 535px;
+    margin-top: -514px;
+}
+
+#pé1 {
+    width: 40px;
+    height: 27px;
+    border-radius: 50% 50% 0 0;
+    background-color: #D75344;
+    border: 5px solid #442159;
+    margin: 458px;
+    margin-top: -544px;
+}
+
+#pé2 {
+    width: 40px;
+    height: 27px;
+    border-radius: 50% 50% 0 0;
+    background-color: #D75344;
+    border: 5px solid #442159;
+    margin: 527px;
+    margin-top: -495px;
+}
+
+#olho1 {
+    width: 17px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #442159;
+    margin: 480px;
+    margin-top: -535px;
+}
+
+#olho2 {
+    width: 17px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #442159;
+    margin: 536px;
+    margin-top: -500px;
+}
+
+#orelha1 {
+    width: 20px;
+    height: 34px;
+    background-color: #D75344;
+    border: 5px solid #442159 ;
+    border-radius: 10px;
+    margin: 424px;
+    margin-top: -840px;
+}
+
+#orelha2 {
+    width: 20px;
+    height: 34px;
+    background-color: #D75344;
+    border: 5px solid #442159 ;
+    border-radius: 10px;
+    margin: 576px;
+    margin-top: -468px;
+}
+
+#antena1 {
+    width: 5px;
+    height: 30px;
+    background-color: #442159;
+    margin: 437px;
+    margin-top: -649px;
+}
+
+#antena2 {
+    width: 5px;
+    height: 30px;
+    background-color: #442159;
+    margin: 589px;
+    margin-top: -465px;
+}
+
+#bolinha1 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #442159;
+    margin: 434.6px;
+    margin-top: -630px;
+}
+
+#bolinha2 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #442159;
+    margin: 586.2px;
+    margin-top: -443px;
+}
+
+#peito {
+    width: 110px;
+    height: 70px;
+    background-color: #D75344;
+    border-radius: 10px;
+    margin: 456px;
+    margin-top: -470px;
+    border: 5px solid #442159;
+}
+
+#linha1 {
+    width: 85px;
+    height: 5px;
+    background-color: #442159;
+    margin: 470px;
+    margin-top: -520px;
+}
+
+#linha2 {
+    width: 80px;
+    height: 5px;
+    background-color: #442159;
+    margin: 470px;
+    margin-top: -460px;
+}
+
+#linha3 {
+    width: 50px;
+    height: 5px;
+    background-color: #442159;
+    margin: 470px;
+    margin-top: -460px;
+}
+
+#botao1 {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: #D75344;
+    margin: 465px;
+    margin-top: -428px;
+    border: 3px solid #442159;
+}
+
+#botao2 {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: #D75344;
+    margin: 494px;
+    margin-top: -487px;
+    border: 3px solid #442159;
+}
+
+#quadradinho {
+    width: 60px;
+    height: 30px;
+    background-color: #D75344; 
+    clip-path: polygon(50% 0%, 75% 50%, 50% 100%, 25% 50%);
+    margin: 520px;
+    margin-top: -520px;
+}
