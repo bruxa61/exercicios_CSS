@@ -1,0 +1,73 @@
+.container {
+    display: flex;
+    justify-content: center;
+} 
+
+.botaoR {
+    padding: 10px 20px;
+    background-color: #f15fb0;
+    color: white;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
+
+.botaoR:hover {
+    background-color: #c74e90;
+}
+
+.botaoG {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f15fb0;
+    color: white;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
+
+.botaoG:hover {
+    background-color: #c74e90;
+}
+
+.botaoC {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f15fb0;
+    color: white;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
+
+.botaoC:hover {
+    background-color: #c74e90;
+}
+
+.botaoM {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f15fb0;
+    color: white;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
+
+.botaoM:hover {
+    background-color: #c74e90;
+}
+
+.botaoP {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f15fb0;
+    color: white;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
+
+.botaoP:hover {
+    background-color: #c74e90;
+}
