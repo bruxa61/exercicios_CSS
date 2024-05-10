@@ -1,6 +1,11 @@
+body{
+    background-color: #ffdef0;
+}
+
 .container {
     display: flex;
     justify-content: center;
+    margin-top: 400px;
 } 
 
 .botaoR {
